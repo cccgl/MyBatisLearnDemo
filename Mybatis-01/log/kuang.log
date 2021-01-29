@@ -1,0 +1,14 @@
+[DEBUG][21-01-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-01-24][com.lei.dao.UserMapperTest]info:进入了testLog4j
+[DEBUG][21-01-24][com.lei.dao.UserMapperTest]debug:进入了testLog4j
+[ERROR][21-01-24][com.lei.dao.UserMapperTest]error:进入了testLog4j
+[DEBUG][21-01-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-01-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-01-26][com.lei.dao.UserMapperTest]info:进入了testLog4j
+[DEBUG][21-01-26][com.lei.dao.UserMapperTest]debug:进入了testLog4j
+[ERROR][21-01-26][com.lei.dao.UserMapperTest]error:进入了testLog4j
